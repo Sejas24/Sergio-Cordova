@@ -1,0 +1,11 @@
+export 'package:baston_inteligente/screens/login_screen.dart';
+export 'package:baston_inteligente/screens/register_blind_screen.dart';
+export 'package:baston_inteligente/screens/home_blind_screen.dart';
+export 'package:baston_inteligente/screens/home_parents_screen.dart';
+export 'package:baston_inteligente/screens/tipo_registro_screen.dart';
+export 'package:baston_inteligente/screens/register_parent_screen.dart';
+export 'package:baston_inteligente/screens/code_user_baston.dart';
+export 'package:baston_inteligente/screens/code_register_parent.dart';
+export 'package:baston_inteligente/screens/Lista_Blind_Screen.dart';
+export 'package:baston_inteligente/screens/Perfil_blind_screen.dart';
+export 'package:baston_inteligente/screens/mapa_blind_screen.dart';
